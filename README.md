@@ -1,4 +1,4 @@
-# b📘 Libros de R:
+#📘 Libros de R:
 R for Data Science – Hadley Wickham & Garrett Grolemund
 
 An Introduction to R – R Core Team
